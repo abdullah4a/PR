@@ -1,3 +1,8 @@
+
+// must be include th web pack
+
+
+
 import moment from 'moment';
 import {
     config,
