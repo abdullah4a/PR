@@ -8,12 +8,22 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/abdullah4a/PR.git"
+=======
+    "url": "git+https://github.com/msufyankhan709/PR.git"
+>>>>>>> main
   },
   "author": "",
   "license": "ISC",
   "bugs": {
+<<<<<<< HEAD
     "url": "https://github.com/abdullah4a/PR/issues"
   },
   "homepage": "https://github.com/abdullah4a/PR#readme"
+=======
+    "url": "https://github.com/msufyankhan709/PR/issues"
+  },
+  "homepage": "https://github.com/msufyankhan709/PR#readme"
+>>>>>>> main
 }
