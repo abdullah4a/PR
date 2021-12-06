@@ -1,7 +1,6 @@
-
-// must be include th web pack
-
-
+/**
+ * Mus include your Name Here
+ */
 
 import moment from 'moment';
 import {
